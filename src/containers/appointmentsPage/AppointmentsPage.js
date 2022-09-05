@@ -1,7 +1,6 @@
 import React, {useState} from "react";
 
 import { AppointmentForm } from "../../components/appointmentForm/AppointmentForm";
-import { Tile } from "../../components/tile/Tile";
 import { TileList } from "../../components/tileList/TileList";
 
 export const AppointmentsPage = ({
